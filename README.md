@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Solidity
 - 💬 Ask me about React.js
 - 📫 How to reach me: hoyx0101@gmail.com
-- 😄 Pronouns: they
+- 😄 Pronouns: we
 - ⚡ Fun fact: most times we are busy, not productive
