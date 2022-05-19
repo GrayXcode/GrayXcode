@@ -1,7 +1,5 @@
 ### Hi Here is what I am working on 👋
 
-<!--
-**GrayXcode/GrayXcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hoyx0101@gmail.com
 - 😄 Pronouns: they
 - ⚡ Fun fact: most times we are busy, not productive
--->
