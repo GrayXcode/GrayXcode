@@ -29,6 +29,30 @@ Frameworks and Libraries I use:<br>
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrayXcode&theme=vue)
+<br>
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: bd51d71e - 5b93 - 4fcb - b0e3 - 2249a65c8524
+          GH_TOKEN: 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
+	  
+	  <!--END_SECTION:waka-->
+	  
+	 
+	  
 <br><br>
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -37,7 +61,5 @@ Frameworks and Libraries I use:<br>
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
