@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on cloning Youtube
+- 🔭 I’m currently working on building more side project
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on React.js
 - 🤔 I’m looking for help with Solidity
