@@ -37,3 +37,7 @@ Frameworks and Libraries I use:<br>
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
