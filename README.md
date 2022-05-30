@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about React.js
 - 📫 How to reach me: hoyx0101@gmail.com
 - 😄 Pronouns: we
+- I secretly love a girl named Mercy Nina but I am a hardcore nerd
 - ⚡ Fun fact: most times we are busy, not productive
 
 Language <br> 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
